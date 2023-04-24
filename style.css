@@ -1,0 +1,67 @@
+.foto-perfil {
+
+            width: 230px;
+            height: 230px;
+            border-radius: 50%;
+        }
+
+        li {
+            display: inline-flex;
+            padding-right: 10px;
+            text-align: right;
+        }
+
+        .icones {
+            padding-left: 10px;
+            color: rgb(8, 8, 8);
+            font-size: 200%;
+        
+            
+        }
+        
+
+        .titulosBrancos {
+            text-decoration: underline;
+            text-underline-position: under;
+            padding-bottom: 20px;
+            text-transform: uppercase;
+            font-weight: 600;
+            color: white;
+        }
+
+        .titulosVerdes {
+            text-decoration: underline;
+            text-underline-position: under;
+            padding-bottom: 50px;
+            text-transform: uppercase;
+            font-weight: 700;
+            color: #18bc9c
+        }
+
+        .paragrafoBrancos {
+            color: white !important;
+        }
+
+
+        .itemMenu {
+            color: white;
+        }
+
+        .textoBranco {
+            color: white !important;
+
+        }
+
+        .logo-stacks {
+            justify-items: flex-end;
+            height: 100px;
+            width: 100px;
+            padding-left: 20px;
+        }
+        div.box {
+            display:inline-flex;
+            width: 300px;
+            height: 200px;
+            margin-left: 5%;
+            margin-right: 5%;
+        }
